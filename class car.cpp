@@ -14,11 +14,11 @@ using namespace std;
            	int mileage;
            	/*here above are the public names*/
            	//a costructor to initialize these data members
-           	car(string brand,string model,double price,int mileage){
-           		this->brand=brand;
-           		this->model=model;
-           		this->price=price;
-           		this->mileage=mileage;
+           	car(string b,string m,double p,int miles){
+           		brand=b;
+           		model=m;
+           		price=p;
+           		mileage=miles;
 			   }
 			   string display(){
 			   	return"brand:"+brand+"\nmodel:"+model+"\nprice:"+to_string(price)+"\nmileage:"+to_string(mileage)+"miles\n";
