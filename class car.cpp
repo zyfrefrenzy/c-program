@@ -1,3 +1,7 @@
+/*a c++ progrem for class car
+NAME frenzy gatheru
+REG NO BSE-05-0163/2024
+*/ 
 #include<iostream>
 #include<string>
 
