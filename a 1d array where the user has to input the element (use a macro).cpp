@@ -1,3 +1,7 @@
+/*A 1D array
+NAME frenzy gatheru
+REG NO BSE-05-0163/2024
+*/
 #include<iostream>
 #define SIZE 5 //macro to define array size 
 
